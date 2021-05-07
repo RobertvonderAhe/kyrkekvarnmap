@@ -50,6 +50,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"kaminzimmer"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,6 +73,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"materialzimmer"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -86,6 +96,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"schachzimmer"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -104,6 +119,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"k\u00fcche"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -122,6 +142,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"speisesaal"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -140,6 +165,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ttraum"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -158,6 +188,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"sauna"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -176,6 +211,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"veranda"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
